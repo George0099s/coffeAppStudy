@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cofee</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="amount_coffee">Количество кофе</string>
+    <string name="amount_chocolate">Количество шоколада</string>
+</resources>
